@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852927028569",
+    "firebase_url": "https://jimbuddy-9e83f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "jimbuddy-9e83f",
+    "storage_bucket": "jimbuddy-9e83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852927028569:android:5207913ec2e47a86680048",
+        "android_client_info": {
+          "package_name": "com.example.jim_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852927028569-jfhp9ahmk47d83u4rpn1jrikhhc6sio1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmCEU-ZGdcf0plMgZ-XrSm9WYi6HwHD8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852927028569-jfhp9ahmk47d83u4rpn1jrikhhc6sio1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852927028569-gvhf82goedjgq3vofc54tjovhhrcmktt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jimBuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
